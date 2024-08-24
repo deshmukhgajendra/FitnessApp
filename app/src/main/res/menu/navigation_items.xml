@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="@layout/activity_navigation_bar">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/homeButton"
+            android:title="@string/home"
+            android:icon="@drawable/baseline_home_24" />
+        <item
+            android:id="@+id/settingButton"
+            android:title="@string/setting"
+            android:icon="@drawable/baseline_settings_24" />
+        <item
+            android:id="@+id/shareButton"
+            android:title="@string/share"
+            android:icon="@drawable/baseline_share_24" />
+        <item
+            android:id="@+id/aboutButton"
+            android:title="@string/about_us"
+            android:icon="@drawable/baseline_about_us" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/logoutButton"
+                android:title="Logout"
+                android:icon="@drawable/logout" />
+        </menu>
+    </item>
+
+</menu>

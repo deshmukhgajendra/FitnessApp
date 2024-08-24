@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <group>
+
+        <item
+            android:id="@+id/historyButton"
+            android:title="History"
+            android:icon="@drawable/baseline_history_24">
+        </item>
+
+        <item
+            android:id="@+id/workoutButton"
+            android:title="Workout"
+            android:icon="@drawable/workout">
+        </item>
+    </group>
+
+</menu>

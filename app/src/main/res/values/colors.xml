@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="Primary">#38761d</color>
+    <color name="OnPrimary">#e4eff3</color>
+    <color name="PrimaryContainer">#8fce00</color>
+    <color name="OnPrimaryContainer">#1c380d</color>
+    <color name="Secondary">#21639e</color>
+    <color name="OnSecondary">#dee6ee</color>
+    <color name="SecondaryContainer">#9fc5e8</color>
+    <color name="OnSecondaryContainer">#083156</color>
+    <color name="Tertiary">#27626e</color>
+    <color name="OnTertiary">#d0e0e3</color>
+    <color name="TertiaryContainer">#88c8d6</color>
+    <color name="OnTertiaryContainer">#0c343d</color>
+    <color name="Error">#c3192b</color>
+    <color name="OnError">#f7e0e0</color>
+    <color name="ErrorContainer">#eebcbc</color>
+    <color name="OnErrorContainer">#660000</color>
+
+
+    <color name="PrimaryDark">#6aa84f</color>
+    <color name="OnPrimaryDark">#20450d</color>
+    <color name="PrimaryContainerDark">#327017</color>
+    <color name="OnPrimaryContainerDark">#93c47d</color>
+    <color name="SecondaryDark">#6fa8dc</color>
+    <color name="OnSecondaryDark">#073763</color>
+    <color name="SecondaryContainerDark">#08457d</color>
+    <color name="OnSecondaryContainerDark">#89b1d6</color>
+    <color name="TertiaryDark">#66afb9</color>
+    <color name="OnTertiaryDark">#0c343d</color>
+    <color name="TertiaryContainerDark">#134f5c</color>
+    <color name="OnTertiaryContainerDark">#76a5af</color>
+    <color name="ErrorDark">#cb8686</color>
+    <color name="OnErrorDark">#660000</color>
+    <color name="ErrorContainerDark">#990000</color>
+    <color name="OnErrorContainerDark">#ea9999</color>
+</resources>

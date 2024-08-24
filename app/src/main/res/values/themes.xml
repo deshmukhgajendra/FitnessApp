@@ -1,0 +1,28 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MyFitnessApp" parent="Theme.Material3.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/Primary</item>
+        <item name="colorOnPrimary">@color/OnPrimary</item>
+        <item name="colorPrimaryContainer">@color/PrimaryContainer</item>
+        <item name="colorOnPrimaryContainer">@color/OnPrimaryContainer</item>
+        <item name="colorSecondary">@color/Secondary</item>
+        <item name="colorOnSecondary">@color/OnSecondary</item>
+        <item name="colorSecondaryContainer">@color/SecondaryContainer</item>
+        <item name="colorOnSecondaryContainer">@color/OnSecondaryContainer</item>
+        <item name="colorTertiary">@color/Tertiary</item>
+        <item name="colorOnTertiary">@color/OnTertiary</item>
+        <item name="colorTertiaryContainer">@color/TertiaryContainer</item>
+        <item name="colorOnTertiaryContainer">@color/OnTertiaryContainer</item>
+        <item name="colorError">@color/Error</item>
+        <item name="colorOnError">@color/OnError</item>
+        <item name="colorErrorContainer">@color/ErrorContainer</item>
+        <item name="colorOnErrorContainer">@color/OnErrorContainer</item>
+
+
+        <!-- Customize your theme here. -->
+
+    </style>
+
+
+</resources>
