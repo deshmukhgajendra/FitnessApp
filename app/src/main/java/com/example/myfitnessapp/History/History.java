@@ -96,6 +96,7 @@ public class History extends AppCompatActivity {
                int year = datePicker.getYear();
 
 
+
                String formattedDay = String.format("%02d", day);
                String formattedMonth = String.format("%02d", month + 1);
 
